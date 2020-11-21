@@ -1,0 +1,253 @@
+﻿
+
+        private void btn_h_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "h";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "H";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_i_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "i";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "I";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_j_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "j";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "J";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_k_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "k";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "K";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_l_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "l";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "L";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_m_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "m";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "M";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_n_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "n";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "N";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_o_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "o";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "O";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_p_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "p";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "P";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_q_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "q";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "Q";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_r_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "r";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "R";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_s_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "s";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "S";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_t_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "t";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "T";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_u_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "u";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "U";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_v_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "v";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "V";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_w_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "w";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "W";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_x_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "x";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "X";
+                scrn.Text = retezec;
+            }
+        }
+
+        private void btn_z_Click(object sender, EventArgs e)
+        {
+            if (velikost == 0)
+            {
+                retezec = retezec + "z";
+                scrn.Text = retezec;
+            }
+            else
+            {
+                retezec = retezec + "Z";
+                scrn.Text = retezec;
+            }
+        }

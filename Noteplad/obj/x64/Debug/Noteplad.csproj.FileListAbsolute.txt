@@ -1,0 +1,10 @@
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.csprojAssemblyReference.cache
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.Form1.resources
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.Properties.Resources.resources
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.csproj.GenerateResource.cache
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.csproj.CoreCompileInputs.cache
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\bin\x64\Debug\Noteplad.exe
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\bin\x64\Debug\Noteplad.pdb
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.exe
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x64\Debug\Noteplad.pdb
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\bin\x64\Debug\Noteplad.exe.config

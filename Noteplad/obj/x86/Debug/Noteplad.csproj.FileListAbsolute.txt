@@ -1,0 +1,25 @@
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\bin\Debug\Noteplad.exe
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\bin\Debug\Noteplad.pdb
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.Form1.resources
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.Properties.Resources.resources
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.GenerateResource.Cache
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.exe
+\\server\kurz.el16a$\visual studio 2010\Projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.pdb
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\bin\Debug\Noteplad.exe
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\bin\Debug\Noteplad.pdb
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csprojAssemblyReference.cache
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.Form1.resources
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.Properties.Resources.resources
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.GenerateResource.cache
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.CoreCompileInputs.cache
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.exe
+C:\Users\o.kurz\OneDrive\PROGRAMING\c#_projects\Noteplad\Noteplad\obj\x86\Debug\Noteplad.pdb
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\bin\Debug\Noteplad.exe
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\bin\Debug\Noteplad.pdb
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csprojAssemblyReference.cache
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.Form1.resources
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.Properties.Resources.resources
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.GenerateResource.cache
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.CoreCompileInputs.cache
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.exe
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.pdb
