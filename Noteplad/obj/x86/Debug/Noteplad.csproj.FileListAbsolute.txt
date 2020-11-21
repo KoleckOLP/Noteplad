@@ -23,3 +23,4 @@ D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.G
 D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.csproj.CoreCompileInputs.cache
 D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.exe
 D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\obj\x86\Debug\Noteplad.pdb
+D:\o.kurz\WORKSPACE\PROGRAMING\Noteplad\Noteplad\bin\Debug\Noteplad.exe.config

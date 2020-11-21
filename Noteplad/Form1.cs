@@ -520,7 +520,12 @@ namespace Noteplad
         private void btn_bckspc_Click(object sender, EventArgs e)
         {
             retezec = scrn.Text;
-            if (retezec != "")
+            if (retezec.EndsWith("\r\n") == true)
+            {
+                retezec = retezec.Remove(retezec.Length - 2, 2);
+                scrn.Text = retezec;
+            }
+            else if (retezec != "")
             {
                 retezec = retezec.Remove(retezec.Length - 1, 1);
                 scrn.Text = retezec;
@@ -543,7 +548,8 @@ namespace Noteplad
 
         private void Btn_nact_Click(object sender, EventArgs e)
         {
-            
+            retezec = File.ReadAllText("lol.txt");
+            scrn.Text = retezec;
         }
     }
 }
